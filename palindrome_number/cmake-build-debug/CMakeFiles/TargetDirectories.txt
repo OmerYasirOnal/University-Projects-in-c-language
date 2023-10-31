@@ -1,0 +1,3 @@
+/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/palindrome_number/cmake-build-debug/CMakeFiles/First.dir
+/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/palindrome_number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/palindrome_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
