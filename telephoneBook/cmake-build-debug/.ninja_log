@@ -1,15 +1,3 @@
 # ninja log v5
-0	189	1699331029504159273	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-189	236	1699331029551242855	telephoneBook	ccc1c1e58d7eebc6
-1	40	1699331091669322446	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-40	77	1699331091705590087	telephoneBook	ccc1c1e58d7eebc6
-1	94	1699331115418239900	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-94	130	1699331115453524410	telephoneBook	ccc1c1e58d7eebc6
-0	39	1699331119950825277	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-39	83	1699331119995378867	telephoneBook	ccc1c1e58d7eebc6
-0	40	1699331129184584702	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-40	77	1699331129221091876	telephoneBook	ccc1c1e58d7eebc6
-0	34	1699331163596671387	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
-34	68	1699331163631014890	telephoneBook	ccc1c1e58d7eebc6
 0	175	1699331571059527470	CMakeFiles/telephoneBook.dir/main.c.o	50e2d505fdb4affc
 176	217	1699331571101170958	telephoneBook	ccc1c1e58d7eebc6

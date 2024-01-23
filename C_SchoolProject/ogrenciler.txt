@@ -1,0 +1,3 @@
+Ahmet, Yilmaz, Bilgisayar Muhendisligi, Ortalaması: 87.50
+Mehmet, Kaya, Yazilim Muhendisligi, Ortalaması: 37.50
+Ali, Demir, Bilgisayar Muhendisligi, Ortalaması: 60.00

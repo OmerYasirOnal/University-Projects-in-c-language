@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/omeryasironal/CLionProjects/telephoneBook/cmake-build-debug"
+			"value" : "/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/telephoneBook/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/omeryasironal/CLionProjects/telephoneBook/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/telephoneBook/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/omeryasironal/CLionProjects/telephoneBook"
+			"value" : "/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/telephoneBook"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/omeryasironal/CLionProjects/telephoneBook/cmake-build-debug"
+			"value" : "/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/telephoneBook/cmake-build-debug"
 		},
 		{
 			"name" : "telephoneBook_IS_TOP_LEVEL",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/omeryasironal/CLionProjects/telephoneBook"
+			"value" : "/Users/omeryasironal/CLionProjects/SchoolProject-in-c-language/telephoneBook"
 		}
 	],
 	"kind" : "cache",
